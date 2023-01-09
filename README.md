@@ -6,13 +6,13 @@ O material aqui disponibilizado serve para a componente prática deste workshop,
 
 O ficheiro **solved.zip** contem os exercícios resolvidos. Este ficheiro  está protegido com palavara-pass. A pass será fornecida no final do workshop. 
 
-## Créditos
------------
-Este workshop foi desenvolvido e promovido: 
 
-Tiago Barros
+-----------
+Este workshop foi desenvolvido por: 
 
 Jérôme Mendes
+
+Tiago Barros
 
 Luís Garrote
 
