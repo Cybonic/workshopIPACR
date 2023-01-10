@@ -6,8 +6,7 @@
 double sigmoid(double value);
 double perceptron(double * entrada, double * pesos,int n_entradas);
 double rede(double * entrada, double * pesos_p1, double * pesos_p2, double * poses_po, int n_entradas);
-int loadFeatureDataset(char * FileName, int features, int classes , double dataset[][features], int * labels, int max_samples,int verbose);
-int loadFeatures( FILE *stream,double * dataset, int * label, int n_features, int verbose);
+int loadFeature ( char * nome , int n_features , float * mx , float * my , float * mz , float * vx , float * vy ,float * vz , int * targets , int num_objectos ) ;
 float exatidao(int vp, int vn, int fp, int fn);
 float recall(int vp, int vn, int fp, int fn);
 float precisao(int vp, int vn, int fp, int fn);
